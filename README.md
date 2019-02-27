@@ -1,4 +1,6 @@
 # Drummer-Kit
-Drum-kit App
+A drum-kit game to pass time or simple make some noise.
 
-Built With HTMLL5, CSS3 & JavaScript
+# What I learned
+- DOM Manipulation
+- Conditionals and loops
