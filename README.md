@@ -1,6 +1,10 @@
 # Drummer-Kit
-A drum-kit game to pass time or simple make some noise.
+A very fun and beautiful drum set. Go ahead and make some noise. 
 
 # What I learned
-- DOM Manipulation
-- Conditionals and loops
+
+Javascript DOM Manipulation using:
+- Event listeners
+- Switches
+- Audio 
+- Timeout 
